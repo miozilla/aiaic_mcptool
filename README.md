@@ -7,7 +7,7 @@ aiaic_mcptool : Agent Tools &amp; MCP # Model Context Protocol # Interoperabilit
 - Using tools offered by Model Context Protocol (MCP)
 
 
-## AI mcptool
+## AI Agent Tools & MCP
 
 ![aiaic_mcptool001.png](./media/aiaic_mcptool001.png)
 
