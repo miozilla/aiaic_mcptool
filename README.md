@@ -28,3 +28,7 @@ aiaic_mcptool : Agent Tools &amp; MCP # Model Context Protocol # Interoperabilit
 ![aiaic_mcptool009.png](./media/aiaic_mcptool009.png)
 
 ![aiaic_mcptool010.png](./media/aiaic_mcptool010.png)
+
+[Agent Tools](./src/2a_tool)
+
+[Best Practice](./src/2b_mcp)
